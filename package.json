@@ -1,0 +1,23 @@
+{
+  "name": "oauth-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabdi21/oauth-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabdi21/oauth-boilerplate/issues"
+  },
+  "homepage": "https://github.com/sabdi21/oauth-boilerplate#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0"
+  }
+}
